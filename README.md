@@ -55,8 +55,8 @@ My suggestion is to run the script from the parent directory, in order to keep s
 This way, you will have the resulting folder looking like this:
 ```
 .
-├── messaggi_chat_-1001111111111.txt
-├── messaggi_chat_-1002222222222.txt
+├── MessagesFromChat-1001111111111.txt
+├── MessagesFromChat-1002222222222.txt
 └── pyrogram
     ├── my_account.session
     └── pyrogram_starter.py
